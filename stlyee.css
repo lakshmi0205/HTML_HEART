@@ -1,0 +1,29 @@
+#h1{
+    height: 150px;
+    width: 150px;
+    background-color: blue;
+    transform: rotate(45deg);
+    position: absolute;
+    top: 250px;
+    left: 350px;
+}
+#h2{
+    height:150px;
+    width: 150px;
+    background-color: blue;
+    transform: rotate(45deg);
+    position: absolute;
+    border-radius: 50%;
+    top: 200px;
+    left: 300px;
+}
+#h3{
+    height: 150px;
+    width:150px;
+    background-color: blue;
+    transform: rotate(45deg);
+    position: absolute;
+    border-radius: 50%;
+    top: 200px;
+    left: 400px;
+}
